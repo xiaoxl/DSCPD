@@ -1,0 +1,50 @@
+---
+title: "DSCPD Team Meeting"
+subtitle: "2022 Fall "
+date: "Oct. 26, 2022"
+author: "Xinli Xiao"
+format: 
+    revealjs:
+        theme: solarized
+---
+
+# What we want
+
+- dataset-based course projects 
+- that can be used in courses
+- either as exercises, examples or capstone projects
+
+---
+
+## Notes
+
+1. Each project should contain several questions, each of which should correspond to a specific topic in a certain course.
+2. The topic and the course should be data science related. You may go to [this link](https://datascience.uark.edu/concentrations/index.php) to find the list of courses.
+3. Each project should contain enough materials that students are expected to finish around 2 weeks.
+4. Each project should contain enough sub questions that can be easily broken down to small exercises and small examples.
+
+---
+
+## A hypothetical Example
+
+A dataset
+
+### Part 1: data cleaning and data wrangling: 
+
+- fill null values, remove columns, change data types, set dummy variables, create new columns, etc. (Programming Language for data science)
+- doing basic statistics (Programming language for data science, intro level stats)
+- data visualization for some story telling (Programming language for data science, Data visualization and story telling)
+
+---
+
+### Part 2: prediction
+
+- find relations among different variables, using the cleaned data from part 1 (regression, machine learning, etc..)
+
+### Part 3: clustering analysis
+
+- use part of the data to do clustering analysis (categorical data analysis)
+
+---
+
+# Thank you!
